@@ -38,3 +38,7 @@ function eraseText(){
     }
 }
 window.onload = typeWriter
+
+function navigateToAbout() {
+    window.location.href = "about.html";
+}
